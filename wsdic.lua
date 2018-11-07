@@ -1,7 +1,7 @@
 script_name = "[0] Asistent Traducere"
 script_description = "Dicționare"
 script_author = "Fmohican"
-script_version = "1.0"
+script_version = "1.1"
 
 
 
